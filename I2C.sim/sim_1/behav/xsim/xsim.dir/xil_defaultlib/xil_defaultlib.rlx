@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+E:/Electronics/Vivado/I2C/I2C.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+E:/Electronics/Vivado/I2C/I2C.srcs/sim_1/new/i2c_tb.v,1741889489,verilog,,,,i2c_tb,,,,,,,,
+E:/Electronics/Vivado/I2C/I2C.srcs/sources_1/new/I2C_master.v,1741889054,verilog,,E:/Electronics/Vivado/I2C/I2C.srcs/sources_1/new/I2C_slave.v,,I2C_master,,,,,,,,
+E:/Electronics/Vivado/I2C/I2C.srcs/sources_1/new/I2C_slave.v,1741889051,verilog,,E:/Electronics/Vivado/I2C/I2C.srcs/sim_1/new/i2c_tb.v,,I2C_slave,,,,,,,,

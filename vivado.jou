@@ -1,0 +1,60 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Mar 13 12:10:42 2025
+# Process ID: 18044
+# Current directory: E:/Electronics/Vivado/I2C
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10128 E:\Electronics\Vivado\I2C\I2C.xpr
+# Log file: E:/Electronics/Vivado/I2C/vivado.log
+# Journal file: E:/Electronics/Vivado/I2C\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Electronics/Vivado/I2C/I2C.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source i2c_tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+update_compile_order -fileset sources_1
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+save_wave_config {E:/Electronics/Vivado/I2C/i2c_tb_behav.wcfg}
+add_files -fileset sim_1 -norecurse E:/Electronics/Vivado/I2C/i2c_tb_behav.wcfg
+set_property xsim.view E:/Electronics/Vivado/I2C/i2c_tb_behav.wcfg [get_filesets sim_1]
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
