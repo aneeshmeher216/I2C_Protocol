@@ -1,5 +1,4 @@
-# I2C_Protocol
------Test Bench Outputs-----  
+**Test Bench Outputs** 
 
 NOTE: For ADDR_ACK state there is an extra delay of one cycle usde for proper timing while for DATA_ACK no delay is used
 
