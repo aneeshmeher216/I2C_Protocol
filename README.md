@@ -9,5 +9,6 @@ NOTE: For ADDR_ACK state there is an extra delay of one cycle usde for proper ti
 ![Read from slave](https://github.com/user-attachments/assets/2a828c46-bbd4-4f76-84b8-e5b4c9540e2f)
 
 **3. Address Mismatch Case**
+
 NOTE: For this case slave address was set as 0x01
 ![Wrong address case](https://github.com/user-attachments/assets/94fc51ca-6962-4cf8-bd87-9387e683d47b)
